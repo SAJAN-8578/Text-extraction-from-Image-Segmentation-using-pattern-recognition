@@ -1,0 +1,5 @@
+This project aimed to extract printed text from images by combining machine learning and OCR techniques.
+We utilized Support Vector Machine (SVM) algorithms for classifying and recognizing segmented text regions, followed by Tesseract OCR to extract the textual content from those segments.
+The process began with image segmentation to isolate the relevant text areas, after which the SVM model handled recognition tasks.
+Tesseract was then applied to convert the segmented images into editable text. The system demonstrated high accuracy, achieving up to 98% in printed text extraction.
+This project was completed as part of our final-year academic curriculum, in which our team of three members collaborated on model development, image processing, and performance evaluation.
